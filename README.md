@@ -64,7 +64,13 @@
 # 3.Adjust the print settings if necessary to optimize print quality and address any issues that may arise.
 
 # step 6:
-![image](https://github.com/23007232/Ex.-No---6.-SIMULATION…
+![image](https://github.com/23007232/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139115574/78ce89e6-ccb0-4ad8-85b1-03bd01d66bc9)
+# Explanation:
+# 1.Once the print is complete, allow the extruder nozzle to cool down to prevent filament from solidifying in the nozzle.
+# 2.This can be done by setting the extruder temperature to a low temperature or by turning off the printer's power.
+# 3.Once the extruder nozzle has cooled down, unload the filament from the printer.
+# 4.Remove the printed object from the build platform. Be careful not to bend or break the object.
+# 5..Clean the build platform with an appropriate solvent, such as isopropyl alcohol, to remove any leftover filament or adhesives.
 
 ### Name:ABDUL KALAAM K M
 ### Register Number:23005114
